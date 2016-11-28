@@ -1,0 +1,18 @@
+@import url('//cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css');
+@import url('//cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css');
+
+.duck {
+  display: block;
+  width: 120px;
+  margin: 1.5rem auto;
+}
+
+.carouselimg {
+  max-width: 90vw!important;
+  max-height: 25vh!important;
+}
+
+.slick-slide {
+  display: flex!important;
+  justify-content: center!important;
+}
